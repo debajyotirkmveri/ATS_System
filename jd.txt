@@ -1,0 +1,38 @@
+We are seeking a Machine Learning Scientist to join our Discovery Science ML team at Coursera, focusing on creating the next generation of personalised search and recommender systems. The candidate will play an instrumental role in researching and developing state-of-the-art techniques for relevant, personalized, and context-aware search and recommendations — redefining the learning experience on our platform. In addition to helping build a robust IR system, this role requires keeping abreast of emerging trends and innovations in machine learning, information retrieval, and online education.
+
+Responsibilities:
+
+Design, develop, deploy, and maintain advanced recommendations ranking models, leveraging machine learning techniques such as two tower models, natural language processing (NLP), label collection, learning-to-rank, user behavior analysis, & LLMs
+Collaborate with cross-functional teams to align research goals with business needs and ensure successful deployment of innovative solutions into production.
+Build and manage large-scale datasets, including corpora, relevance labels, and user interactions, utilizing tools and techniques for data collection, cleaning, and preprocessing.
+Conduct thorough evaluations of recommendations models using industry-standard metrics, analyze results, and provide insights for model improvement and business strategy.
+Stay up-to-date with the latest trends in ML, recommender systems, search science, and information retrieval, frequently attending conferences, workshops, and engaging in collaborative research projects.
+Contribute to Coursera's research efforts by publishing in top-tier conferences such as SIGIR, WWW, CIKM, and similar venues.
+
+Basic Qualifications:
+
+PhD or Master's degree in Computer Science, Information Retrieval, or closely related fields.
+Demonstrated experience in developing advanced recommendations models, incorporating techniques like natural language processing (NLP) and learning-to-rank algorithms.
+Familiarity with information retrieval metrics, evaluation methodologies, and scalable search system architecture.
+Track record of publishing research in top-tier conferences such as SIGIR, EMNLP, WWW, CIKM, or similar venues.
+
+Preferred Qualifications:
+
+Proficiency in programming languages and deep learning frameworks such as Python, TensorFlow, or PyTorch.
+Experience in working with large-scale datasets and tools for data collection, cleaning, and preprocessing.
+Familiarity with ML deployment in production environments and tools for version control, such as Git.
+Proven ability to stay current with emerging research and technologies in the ML and recommendations domain.
+Experience with MLOps, ML engineering
+Experience collaborating with cross-functional teams and excellent communication abilities.
+Passion for driving impact in the field of online education through innovative ML and recommendations techniques.
+Familiarity with Coursera's platform and course offerings, as well as active participation in wider AI and Machine Learning communities, is a plus.
+Familiarity with data science concepts, including the ability to design, implement, and analyze A/B tests in an online environment to optimize product performance and user experience.
+
+If this opportunity interests you, you might like these courses on Coursera:
+
+Unsupervised Learning, Recommenders, Reinforcement Learning
+Recommender Systems: Evaluation and Metrics 
+
+Coursera is an Equal Employment Opportunity Employer and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, age, marital status, national origin, protected veteran status, disability, or any other legally protected class.
+
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, please contact us at accommodations@coursera.org.

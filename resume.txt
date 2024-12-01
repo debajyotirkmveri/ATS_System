@@ -1,0 +1,107 @@
+DEBAJYOTI MAITY
+Associate Consultant EY
+debajyotimaity007@gmail.com
+/ne(+91)7407453991 /♀nednwww.linkedin.com/in/debajyoti-maity-77172125b /gtbhttps://github.com/debajyotirkmveri
+https://debajyotirkmveri.github.io/debajyotiresume.github.io/
+In-depth understanding of Natural Language Processing, Time Series Forecasting, and Ma-
+chine Learning ,Operation Research, Seeking to join an organization as a Data Scientist or
+Data Analyst to enhance my skills and put them to use.
+PROFESSIONAL EXPERIENCE
+A Comprehensive Study and Search for AI
+driven solutions of Tropical Storm Damages
+Deep Learning
+Ὄ01/2024-06/2024 EY
+•Leveraged data augmentation techniques such as
+rotation, ﬂipping, and scaling to increase the diversity
+of training data and improve model generalization.
+•Utilized YOLOv8 (You Only Look Once version 8)
+object detection model for accurate and real-time
+detection of building in images.
+•The evaluation metrics used to assess the model’s
+performance such as mAP (mean Average Precision),
+IoU (Intersection over Union).
+•Develop a Streamlit web application for detecting
+images containing four type of buildings .
+Demand Forecasting on Shipment Records
+Machine Learning | Sequential time series data
+Ὄ01/2024- 05/2024 EY
+•The data is split into training and testing sets, and the
+Random Forest Regressor is trained to learn patterns
+between features and the target variable.
+•After training, evaluation metrics include MAE, MSE,
+and RMSE.
+ACADEMIC PROJECT
+Developing Spatial Simulator Engine For
+Urban Airpollution Monitoring -Application
+on Modis data
+Time Series Forecasting | Deep Learning | Machine
+Learning
+Ὄ08/2023 - 01/2024
+•Developed a CNN-LSTM model for predicting the
+next time’s AOD value in the presence of cloud cover.
+•Utilized PM 2.5 ground station measurements to
+forecast AOD levels.
+•Conducted comparative analysis, revealing that
+Random Forest Regressors yielded higher r2values
+in prediction assessments.
+Real-time Face Recognition and Attendance
+System
+Computer Vision | Machine Learning | Real-time
+Processing
+Ὄ06/2023 - 10/2023
+•Developed a real-time system integrating face
+recognition with automated attendance marking.
+•Trained models using KNN, Random Forest, and
+Decision Tree to recognize individuals based on facial
+data.
+•Implemented real-time face detection and
+recognition from live video feeds, with dynamic
+cropping and resizing of images.
+•Automated attendance logging with timestamps,
+saving records in CSV format.
+INTERESTS
+Football Problem Solving CookingBACKGROUND
+•Associate consultant
+Ὄ08/07/2024-present EY
+•Associate consultant Intern
+Ὄ08/01/2024-07/06/2024 EY
+•Summer Internship
+ὌAugust, 2023- January,2024 IIIT Sricity
+EDUCATION
+MSc in Big Data Analytics
+RKMVERI , Belur
+ὌAugust 2022 – June 2024 CGPA: 8
+B.Sc. - Mathematics Honours
+Bajkul Milani Mahavidyalaya under Vidyasagar University
+ὌJul 2019 – July 2022 CGPA: 9.77
+EXPERTISE
+Generative Artiﬁcial Intelligence EDA Feature Engineering Machine Learning Modelling
+NLP Documentation Web Scrapping Time Series Modeling Demand Forecasting
+Prompt Engineering Optimization
+TECHNICAL SKILLS
+Python R Mongodb PowerBI SQL ML Tensorﬂow DL NLP
+GEN AI Scikit-Learn Matplotlib Numpy Pandas gurobi cplex ipopt
+PROFESSIONAL EXPERIENCE
+Developed a Multi-PDF Question Answering System with Source Page
+Identiﬁcation for Supply Chain Documents
+LLM |Gemini-1.5-ﬂash |text-embedding-004
+Ὄ08/2024- 11/2024 EY
+•Create an object for generating vector embeddings of text chunks using pre-train sen-
+tence tranformer model like text-embedding-004 .
+•Utilize the FAISS (Facebook AI Similarity Search) library to eﬃciently search for embed-
+dings of multimedia documents that exhibit similarity to one another.
+•Perform Nearest Neighbourhood Search to retrieve top k relevant chunk of the user
+input.
+•UseTF-IDF (Term Frequency-Inverse Document Frequency) to vectorize the bot’s re-
+sponse sentence.
+•Apply cosine similarity to compare the vectorized bot’s response with potential source
+sentences and ﬁnd the most similar source.
+Developed a customer service chatbot for order-related data
+LLM | OpenAI API | Prompt Engineering
+Ὄ08/2024 - 09/2024 EY
+•Implemented an LLM-based chatbot using the OpenAI API, tailored for customer service
+inquiries around order and delivery details.
+•Applied prompt engineering techniques to enhance the chatbot’s understanding of com-
+mon customer questions.
+•Preprocessed and structured order-related data with ﬁelds like DeliveryCode ,ActualDe-
+liveryDate ,SalesOrderNumber , and PurchaseOrderNumber .
